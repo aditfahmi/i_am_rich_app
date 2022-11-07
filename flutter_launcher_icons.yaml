@@ -1,0 +1,14 @@
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/avatar1.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+  web:
+    generate: true
+    image_path: "assets/icon/avatar1.png"
+    background_color: "#f5646b"
+    theme_color: "#f5646b"
+  windows:
+    generate: true
+    image_path: "assets/icon/avatar1.png"
+    icon_size: 48 # min:48, max:256, default: 48
